@@ -1,0 +1,38 @@
+Hipótese 2: "Os estudantes estão satisfeitos com a qualidade de ensino após a adoção do modelo Descomplica."
+Hipótese 3: "A maioria dos estudantes recomenda a Uniamérica Descomplica, considerando os benefícios da nova metodologia."
+Hipótese 4: "A qualidade percebida da instituição melhorou após a adoção do modelo Descomplica."
+Estudantes que recomendam a Uniamérica Descomplica estão mais satisfeitos com a qualidade do ensino e percebem uma melhoria após a adoção da nova metodologia Descomplica.
+
+[]================================================[]
+
+Fazer teste quiQuadrado
+teste t 
+
+1. Médias de Tendência Central:
+
+    Tendência central como a média e a mediana foram calculadas para as variáveis de satisfação e recomendação.
+    Esses dados são visualizados na tabela de estatísticas descritivas que inclui todas as métricas como média, desvio padrão e assimetria.
+
+2. Interpretação de Box Plot:
+
+    O boxplot foi gerado para mostrar a distribuição dos níveis de satisfação. Nele, é possível observar a mediana, quartis e valores atípicos, ajudando a entender a dispersão e concentração dos dados de satisfação dos alunos.
+
+3. Tipo de Amostragem:
+
+    O tipo de amostragem parece ser amostragem por conveniência, já que os dados provavelmente foram coletados de um grupo de estudantes que estava disponível e disposto a responder.
+
+4. Tabela de Frequência:
+
+    As tabelas de frequência para "Recomendaria", "Satisfação com a experiência acadêmica" e "Qualidade dos professores" mostram a distribuição das respostas dos alunos, quantificando a popularidade de cada categoria.
+
+5. Assimetria dos Dados:
+
+    A assimetria foi calculada para a satisfação. O valor indica se os dados estão inclinados para um dos lados (se a distribuição é simétrica ou não).
+
+6. Margem de Erro:
+
+    A margem de erro não foi fornecida diretamente nos dados, mas ela pode ser calculada dependendo do intervalo de confiança que você gostaria de aplicar e do tamanho da amostra.
+
+7. Análise de Correlação:
+
+    Foi calculada a correlação entre a recomendação e a satisfação, resultando em um valor que indica o grau de associação entre essas duas variáveis. Um valor próximo de 1 indica forte correlação positiva, e valores próximos de 0 indicam ausência de correlação.
